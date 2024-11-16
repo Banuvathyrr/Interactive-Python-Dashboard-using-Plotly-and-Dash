@@ -1,4 +1,4 @@
-# Interactive Student Performance Dashboard using Dash, DBC and Plotly
+<h1 align="center"> Interactive Student Performance Dashboard using Dash, DBC and Plotly</h1>
 
 ## PROJECT OVERVIEW
 I recently developed a Python-based web dashboard that visualizes student performance data and suggests tailored learning paths based on real-time data retrieved from a MySQL database. The dashboard provides users with the ability to personalize insights by selecting specific candidates, topics, and difficulty levels through dynamic dropdown menus. With key performance indicators like percentage incorrect, relevant study materials, and high-priority topics for improvement, users can explore targeted metrics through a responsive sidebar for seamless navigation across sections like overall performance and topic-specific analyses.
